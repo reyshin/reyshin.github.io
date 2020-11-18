@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Star</title>
+  
+  <subtitle>Hello</subtitle>
+  <link href="https://reyshin.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="https://reyshin.github.io/blog/"/>
+  <updated>2020-11-15T13:38:31.378Z</updated>
+  <id>https://reyshin.github.io/blog/</id>
+  
+  <author>
+    <name>Reyshin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2</title>
+    <link href="https://reyshin.github.io/blog/2020/11/16/02/"/>
+    <id>https://reyshin.github.io/blog/2020/11/16/02/</id>
+    <published>2020-11-15T21:38:10.000Z</published>
+    <updated>2020-11-15T13:38:31.378Z</updated>
+    
+    <content type="html"><![CDATA[<p>🗨️: Bhadra Yoga, Malavya Yoga, Ruchaka Yoga, Hamsa Yoga, Sasa Yoga</p><p>先查询「行星」与「星座」是否属于领主与被领主的关系，一般只讨论「五大元素行星」，所以「巨蟹座」以及「狮子座」不包含在内</p><p><a href="https://www.notion.so/a4196f11feb140f7ab1853718a203c67">印度占星</a></p><ul><li><p>Bhadra Yoga：「水星」在「双子座」「处女座」</p><p>  聪明、雄辩、受过良好教育</p></li><li><p>Malavya Yoga：「金星」在「金牛座」「天枰座」</p><p>  优雅、创意、快乐</p></li><li><p>Ruchaka Yoga：「火星」在「白羊座」「天蝎座」</p><p>  健康、冒险、胜利</p></li><li><p>Hamsa Yoga：「木星」在「射手座」「双鱼座」</p><p>  富有、探索、讨喜</p></li><li><p>Sasa Yoga：「土星」在「摩羯座」「水瓶座」</p><p>  高效、领导、挑剔</p></li></ul><p>🔘 即使是在不好的宫位，比如「6、8、12」，也能表现出积极的一面</p><p>🔘 若落在「Navamsha」宫，那么以上的特点也不会表现出来</p><p>🔘 如果这颗行星是「煞星」，那么它也会给所处的宫位带来积极的意义，但会使「相位」宫出现问题</p><p>🔘 如果有「煞星」同宫，那么会加倍地受到负面影响，这也是判断星盘的重</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;🗨️: Bhadra Yoga, Malavya Yoga, Ruchaka Yoga, Hamsa Yoga, Sasa Yoga&lt;/p&gt;
+&lt;p&gt;先查询「行星」与「星座」是否属于领主与被领主的关系，一般只讨论「五大元素行星」，所以「巨蟹座」以及「狮子座」不包含在内&lt;/p</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome to My Star</title>
+    <link href="https://reyshin.github.io/blog/2020/11/15/hello-world/"/>
+    <id>https://reyshin.github.io/blog/2020/11/15/hello-world/</id>
+    <published>2020-11-15T07:47:01.216Z</published>
+    <updated>2020-11-15T10:02:09.434Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前言</title>
+    <link href="https://reyshin.github.io/blog/2020/01/15/%E5%89%8D%E8%A8%80/"/>
+    <id>https://reyshin.github.io/blog/2020/01/15/%E5%89%8D%E8%A8%80/</id>
+    <published>2020-01-14T18:09:05.000Z</published>
+    <updated>2020-11-15T13:33:27.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>🗨️: 占星的原则与一些问题</p><h3 id="原则"><a href="#原则" class="headerlink" title="原则"></a>原则</h3><hr><ul><li><p>使用平常心！</p><p>  不是所有人都能成为富豪或天才，尽可能不去夸大事实</p></li><li><p>试着联想！</p><p>  不是单颗星曜或宫位就能决定人的一生，试着把星盘上的星星、位置、生活串联起来</p></li><li><p>善用鼓励！</p><p>  当看到不好的因素时不要因此难过，任何星盘都有好与坏的一面，试着向更好的方向努力</p></li><li><p>注意观察！</p><p>  永远没有两张完全相同的星盘，即使是双胞胎之间也不会，不能用笼统的话语来对所有人做概括</p></li><li><p>付诸实践！</p><p>  大多数人以书本来评定一个星盘或着当事人，试着以当事人的经历来不断的改进理论</p></li></ul><h3 id="一些问题"><a href="#一些问题" class="headerlink" title="一些问题"></a>一些问题</h3><hr><ul><li><p>西方占星与印度占星从原理来说使用的是不同的黄道，目前还在探索之中，并且尚未发现有明显的区别。比如一个人的「恒星黄道」与「回归黄道」所体现出来的完全不同，但并不代表其中一者错误。</p><p>  实践表明，一个人的表现和内心活动有时也会完全不同，而有人则一生如此，所以不能评判哪种黄道是正确的。</p></li><li><p>目前：西占使用「回归黄道」；印占使用「恒星黄道」</p><p>  回归黄道对描述人的气质心理描述十分准确，而恒星黄道则更能解释更深处的内心问题。</p></li><li><p>西方星座的外行星：土星、天王星、海王星、冥王星，能大概描述一个人的生活主题或者挫折挑战。而印度占星则能更好的判断生活主题在合时显现，或者哪一些挫折与挑战具有更大的影响</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;🗨️: 占星的原则与一些问题&lt;/p&gt;
+&lt;h3 id=&quot;原则&quot;&gt;&lt;a href=&quot;#原则&quot; class=&quot;headerlink&quot; title=&quot;原则&quot;&gt;&lt;/a&gt;原则&lt;/h3&gt;&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;使用平常心！&lt;/p&gt;
+&lt;p&gt;  不是所有人都能成为富豪或天才，尽可</summary>
+      
+    
+    
+    
+    <category term="原则" scheme="https://reyshin.github.io/blog/categories/%E5%8E%9F%E5%88%99/"/>
+    
+    
+  </entry>
+  
+</feed>
